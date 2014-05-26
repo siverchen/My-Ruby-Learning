@@ -1,7 +1,0 @@
-class Game
-
-  def initialize(start)
-    @quips = {
-      "
-You died. You kinda suck at this.",
-      :saadf
